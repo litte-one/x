@@ -1,0 +1,16 @@
+{
+	"name": "x",
+	"version": "0.0.1",
+	"author": "little one",
+	"description": "a tiny frontend framework use real dom and signals",
+	"keywords": [
+		"javascript",
+		"frontend framework",
+		"no virtual dom",
+		"js signals"
+	],
+	"license": "MIT",
+	"dependencies": {
+		"@maverick-js/signals": "^6.0.0"
+	}
+}
